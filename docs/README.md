@@ -42,7 +42,8 @@ my_project/
 │   │    │      ├── logging_config.py
 │   │    │      ├── s3_client_object.py
 │   │    │      ├── spark_session.py
-│   │    │      └── my_sql_session.py
+│   │    │      ├──  my_sql_session.py
+│   │    │      └──redshift_session.py
 │   │    └── write/
 │   │    │      ├── database_write.py
 │   │    │      └── parquet_write.py
